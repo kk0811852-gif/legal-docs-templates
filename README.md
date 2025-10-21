@@ -1,30 +1,22 @@
-Non-Disclosure Agreement (NDA) Template
-Purpose: Protect confidential business information between parties.
+Legal Docs Templates
+Free, customizable legal templates for Indian businesses, law students, and entrepreneurs.
 
-Key Features:
+Purpose
+This repository provides ready-to-use legal documents to simplify compliance and reduce barriers to accessing professional-grade paperwork.
 
-Indian-Compliant Clauses: Covers confidentiality, obligations, and governing law (Maharashtra/India).
-Customizable Placeholders: Replace [Party A Name], [Date], and [Term Length] to personalize.
-Plain Language: Avoids legalese for clarity.
-Best For:
+Current Templates
+Non-Disclosure Agreement (NDA): Protects confidential business information between parties.
 
-Startups, freelancers, and small businesses sharing trade secrets.
-Law students studying contract drafting.
-How to Use:
-
-Download the template.
-Edit placeholders (e.g., [Party A Name] → “ABC Pvt Ltd”).
-Save as a reusable template for future deals.
-Why This Works
-Legal Safety: Meets Indian regulatory standards.
-Efficiency: Skip lawyer fees for basic NDAs.
-Flexibility: Adaptable for any business size or industry.
+How to Use
+Download any template.
+Customize placeholder text (e.g., [Party A Name], [Date]).
+Execute the document (e.g., sign with witnesses or e-signature tools).
 
 Disclaimer
 Important Notice:
-This NDA template is provided for educational and informational purposes only. It does not constitute legal advice.
+This repository is for educational and informational purposes only. The creator assumes no responsibility for:
 
-Limitation of Liability: The creator assumes no responsibility for any losses, damages, or legal disputes arising from the use of this template.
-Consult a Lawyer: Always seek professional legal counsel before executing binding agreements.
-Customization Required: Tailor the template to your specific circumstances (e.g., industry, location) to ensure compliance.
-By downloading or using this template, you acknowledge that you have read and understood this disclaimer.
+Losses, damages, or legal disputes arising from template use.
+Ensuring compliance with local laws (always consult a lawyer).
+By downloading or using these templates, you acknowledge that you have read and understood this disclaimer.
+
